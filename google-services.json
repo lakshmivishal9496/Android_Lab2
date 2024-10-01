@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "576179800757",
+    "firebase_url": "https://lab2-b486d-default-rtdb.firebaseio.com",
+    "project_id": "lab2-b486d",
+    "storage_bucket": "lab2-b486d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576179800757:android:534308fa64bd5b98f68cfc",
+        "android_client_info": {
+          "package_name": "com.example.lab2_database"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxFnathzdEFlEmdKOsWKZ62d8ccaGzn_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
